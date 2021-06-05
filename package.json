@@ -1,0 +1,19 @@
+{
+  "name": "nsw-brand-banner",
+  "version": "0.1.0",
+  "description": "Brand banner to be included on NSW Government websites",
+  "main": "component/banner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalnsw/brand-banner.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalnsw/brand-banner/issues"
+  },
+  "homepage": "https://github.com/digitalnsw/brand-banner#readme"
+}
