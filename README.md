@@ -5,14 +5,14 @@ Brand banner for NSW Gov websites
 
 ## Using via CDN
 
-Include the component in <head>
+Include the component in `<head>`
 ```
 <script src="https://cdn.jsdelivr.net/gh/digitalnsw/brand-banner/component/banner.js" defer></script>
 ```
 
 ## via NPM
 
-TODO
+TODO (unreleased)
 
 ## Usage
 

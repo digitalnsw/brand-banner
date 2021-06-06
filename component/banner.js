@@ -44,7 +44,7 @@ class BrandBanner extends HTMLElement {
       <style>
         @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
         :host {
-          background: ${bannerBackground};
+          background: ${bannerBackground}!important;
           width:100%;
           display:block;
           align-content: space-between;
