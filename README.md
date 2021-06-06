@@ -7,7 +7,7 @@ Brand banner for NSW Gov websites
 
 Include the component in <head>
 ```
-<script src="https://cdn.jsdelivr.net/gh/digitalnsw/brand-banner/component/banner.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/digitalnsw/brand-banner/component/banner.js" defer></script>
 ```
 
 ## via NPM
@@ -43,7 +43,7 @@ The NSW Government Waratah logo should align to the left side of your content ar
 | Property  | Notes                                                                       | Default | Added |
 |-----------|-----------------------------------------------------------------------------|---------|-------|
 | max-width | Use number + unit, as css e.g. `max-width="75rem"` or `max-width="500px"`   | 75rem   | 0.1.0 |
-| theme     | One of: <ul><li>white</li><li>off-white</li><li>blue</li><li>dark</li></ul> | white   | TODO  |
+| theme     | One of: <ul><li>white</li><li>off-white</li><li>blue</li><li>dark</li></ul> | white   | 0.2.0 |
 
 ### Example
 
