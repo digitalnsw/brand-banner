@@ -3,7 +3,6 @@ class BrandBanner extends HTMLElement {
     super()
     this.attachShadow({ mode: 'open' })
 
-    const agency = this.hasAttribute('agency') ? this.getAttribute('agency') : '';
     const maxWidth = this.hasAttribute('max-width') ? this.getAttribute('max-width') : '75rem';
 
     this.shadowRoot.innerHTML = `
